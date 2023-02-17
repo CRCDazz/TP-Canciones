@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1664854602 source:c:\users\rodri\documents\carlos\utn\laboratorio 2\resolucion_carlos\archivos y registros\parciallabii\pacial\main.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<time.h>
+	<limits>
+	<conio.h>
+	<string>
+	"funcionesAuxiliares.h"
+	"claseFecha.h"
+	"cargarCadena.h"
+	"claseCancion.h"
+	"claseInterprete.h"
+	"claseGenero.h"
+	"Menu.h"
+	"funcionesGlobales.h"
+
+1664768778 c:\users\rodri\documents\carlos\utn\laboratorio 2\resolucion_carlos\archivos y registros\parciallabii\pacial\menu.h
+	"funcionesGlobales.h"
+
+1664857840 c:\users\rodri\documents\carlos\utn\laboratorio 2\resolucion_carlos\archivos y registros\parciallabii\pacial\funcionesglobales.h
+
+1664854200 c:\users\rodri\documents\carlos\utn\laboratorio 2\resolucion_carlos\archivos y registros\parciallabii\pacial\clasecancion.h
+
+1664853319 c:\users\rodri\documents\carlos\utn\laboratorio 2\resolucion_carlos\archivos y registros\parciallabii\pacial\clasefecha.h
+
+1664437603 c:\users\rodri\documents\carlos\utn\laboratorio 2\resolucion_carlos\archivos y registros\parciallabii\pacial\cargarcadena.h
+
+1664857840 c:\users\rodri\documents\carlos\utn\laboratorio 2\resolucion_carlos\archivos y registros\parciallabii\pacial\claseinterprete.h
+
+1664854200 c:\users\rodri\documents\carlos\utn\laboratorio 2\resolucion_carlos\archivos y registros\parciallabii\pacial\clasegenero.h
+
+1664853267 c:\users\rodri\documents\carlos\utn\laboratorio 2\resolucion_carlos\archivos y registros\parciallabii\pacial\funcionesauxiliares.h
+
+1667918298 source:c:\users\rodri\documents\carlos\utn\laboratorio 2\proyecto_parcial\parcial 6_10_2022\pacial\main.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<time.h>
+	<limits>
+	<conio.h>
+	<string>
+	"funcionesAuxiliares.h"
+	"claseFecha.h"
+	"cargarCadena.h"
+	"claseCancion.h"
+	"claseInterprete.h"
+	"claseGenero.h"
+	"Menu.h"
+	"funcionesGlobales.h"
+
+1664853267 c:\users\rodri\documents\carlos\utn\laboratorio 2\proyecto_parcial\parcial 6_10_2022\pacial\funcionesauxiliares.h
+
+1664853319 c:\users\rodri\documents\carlos\utn\laboratorio 2\proyecto_parcial\parcial 6_10_2022\pacial\clasefecha.h
+
+1664437603 c:\users\rodri\documents\carlos\utn\laboratorio 2\proyecto_parcial\parcial 6_10_2022\pacial\cargarcadena.h
+
+1664854200 c:\users\rodri\documents\carlos\utn\laboratorio 2\proyecto_parcial\parcial 6_10_2022\pacial\clasecancion.h
+
+1666427561 c:\users\rodri\documents\carlos\utn\laboratorio 2\proyecto_parcial\parcial 6_10_2022\pacial\claseinterprete.h
+
+1664854200 c:\users\rodri\documents\carlos\utn\laboratorio 2\proyecto_parcial\parcial 6_10_2022\pacial\clasegenero.h
+
+1664768778 c:\users\rodri\documents\carlos\utn\laboratorio 2\proyecto_parcial\parcial 6_10_2022\pacial\menu.h
+	"funcionesGlobales.h"
+
+1664857840 c:\users\rodri\documents\carlos\utn\laboratorio 2\proyecto_parcial\parcial 6_10_2022\pacial\funcionesglobales.h
+
